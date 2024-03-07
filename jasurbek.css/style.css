@@ -1,0 +1,41 @@
+#top-img {
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.top-h {
+    width: 704px;
+    height: 38px;
+    top: 400px;
+    margin-left: 48px;
+    color:  #101828;;
+}
+.top-p {
+    width: 704px;
+    height: 194px;
+    top: 413px;
+    left: 48px;
+    font-size: 18px;
+    margin-left: 48px;
+    color: #6B7280;
+}
+.link {
+    width: 400px;
+    height: 32px;
+    top: 500px;
+    margin-left: 25px;
+    gap: 6px;
+    margin-bottom: 50px;
+}
+.and {
+   color: #6B7280;; 
+}
+.top {
+    width: 704px;
+    height: 94px;
+    top: 413px;
+    left: 48px;
+    font-size: 18px;
+    margin-left: 48px;
+    color: #6B7280;
+}
+

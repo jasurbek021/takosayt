@@ -1,0 +1,83 @@
+.top-div {
+    border: 2px solid ;
+    border-radius: 24px;
+    padding-left: 30px;
+    padding-right: 40px;
+    width: 736px;
+    top: 123px;
+    margin-left: 352px;
+     background-color: white;
+  }
+  .img {
+  
+    width: 656px;
+    height: 300px;
+    margin-top: 40px;
+    border-radius: 12px;
+    margin-left: 30px;
+  }
+  .second-div {
+    width: 656px;
+    border: 1px;
+  }
+  .top-p {
+    font-family: serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    gap: 16px;
+  }
+  .top-p {
+    gap: 8px;
+  }
+  .time {
+    width: 656px;
+    border: 1px;
+    padding: 28px;
+    background-color: #FFF7FB;
+    border-radius: 12px;
+  }
+  .pre-time {
+    font-family: outfit;
+    font-size: 20px;
+    line-height: 20px;
+    width: 600px;
+  }
+  .div-ingrid {
+    width: 656px;
+    height: 204px;
+    gap: 5px;
+    margin: 20px;
+  }
+  .ingridient {
+    font-family: youn serif;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 28px;
+    color: #854632;
+  }
+  .instruction {
+    font-family: serif;
+    font-size: 28px;
+    color: #854632;
+  }
+  .instruction-ol {
+    color: #854632;
+    font-family: serif;
+  }
+  .nutrit {
+    font-family: serif;
+    font-size: 28px;
+    color: #854632;
+  }
+  .table {
+    width: 500px;
+    border-bottom: 1px solid;
+    margin-bottom: 20px;
+  }
+  .body {
+    background-color: #F3E5D7;
+  }
+  .coler {
+    color: brown;
+  }
